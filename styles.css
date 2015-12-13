@@ -1,14 +1,28 @@
-/* CSS file placeholder. */
-
-
-html, body {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: helvetica;
+html {
+    
 }
 
-head {
-    
+body {
+    font-size: 100%;
+    text-align: center;
+    background-color: #373636;
+}
+
+#greeting {
+     font:  italic bold 72px Georgia, serif;
+}
+
+#tutorial_1, #tutorial_2, #tutorial_3 {
+    text-align: center;
+    padding:10px 5px 15px 20px;
+}
+
+#tutorial_4, #tutorial_5, #tutorial_6 {
+    text-align: center;
+    padding:10px 5px 15px 20px;
+}
+
+#tutorial_7, #tutorial_8, #tutorial_9 {
+   text-align: center;
+    padding:10px 5px 15px 20px;
 }
